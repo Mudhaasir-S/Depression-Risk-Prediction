@@ -31,7 +31,7 @@ without relying on any predefined labels.
 
 ## 🔗 Links
 
-- 📘 **Project Notebook**: [Depression Risk Prediction.ipynb](https://github.com/yourusername/depression-risk-prediction/blob/main/Depression%20Risk%20Prediction.ipynb)
+- 📘 **Project Notebook**: [Depression Risk Prediction.ipynb](https://www.linkedin.com/posts/mudhassir-s_depression-risk-prediction-activity-7342551945284341760-R9JV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtar60BbdzcOWYuFnrtZX-oPavtpTKUTGc)
 - 👤 **Author - Mudhassir**: [LinkedIn Profile](https://www.linkedin.com/in/mudhassir-s/)
 
 ---
