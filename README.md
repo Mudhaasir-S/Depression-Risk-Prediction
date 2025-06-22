@@ -1,6 +1,7 @@
 # 🧠 Depression Risk Prediction using Unsupervised Learning
 
-![Depression image](C:\Users\DELL\Documents\Depression image.jpg)
+![Depression image](https://github.com/user-attachments/assets/24455d0e-9322-413f-869d-06de62b0a09c)
+
 
 Depression is a growing global health issue, and early identification of individuals at risk is crucial for effective intervention. This project explores depression risk prediction using **unsupervised machine learning**, focusing on **K-Means clustering**.
 
